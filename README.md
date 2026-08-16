@@ -1,4 +1,4 @@
-# Cyber Wordlist Generator V4
+# Cyber Wordlist Generator 
 
 A Python-based **wordlist generation tool** designed for authorized cybersecurity testing, password-auditing labs, CTF environments, and security research.
 
